@@ -1,0 +1,19 @@
+.digital-clock{
+    display: flex;
+    align-items: center;
+    width: 350px;
+    height: 100px;
+    margin-left:400px;
+    padding: 40px;
+    border: rgb(96, 46, 175) solid 16px;
+    border-radius: 20px;
+    background-image: url("https://cdn.pixabay.com/photo/2016/06/02/02/33/triangles-1430105__340.png");
+}
+.digital{
+
+    align-items: center;
+    color: white;
+    font-size: 60px;
+    font-family:monospace;
+    
+}

@@ -1,0 +1,20 @@
+.countdown{
+    display: flex;
+    align-items: center;
+    width: 600px;
+    height: 100px;
+    margin-left: 300px;
+    padding: 40px;
+   background-image: url("https://image.freepik.com/vector-gratis/fondo-acuarela_220290-34.jpg");
+    border: rgb(190, 25, 141) solid 16px;
+    border-radius: 20px;
+}
+h2{
+
+    align-items: center;
+    margin-left: 40px;
+    color: rgb(190, 25, 141);
+    font-size: 60px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
